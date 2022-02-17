@@ -1,4 +1,5 @@
 * text=auto
+*.php linguist-language=laravel
 
 *.blade.php diff=html
 *.css diff=css
