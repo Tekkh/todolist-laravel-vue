@@ -11,7 +11,7 @@
             v-on:reloadlist="getList()"
           />
     </div>
-
+</template>
 
 <script>
 import addItemForm from "./addItemForm"
